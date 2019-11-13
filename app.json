@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Multiple Select Checkbox In React Native",
+    "slug": "multiple-select-checkbox-in-react-native",
+    "privacy": "public",
+    "description":"Hello and welcome everyone, In this article we will explore how to make Multiple Select Checkbox In React Native, by creating a quiz app screen. Check the full detailed guide from here https://reactnativemaster.com/multiple-select-checkbox-in-react-native",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
